@@ -12,6 +12,7 @@ public class Test1 {
 			num1=num2;
 			num2=sum;
 			System.out.print(" " +sum);
+			System.out.print("sum");
 	}
 
 }
